@@ -1,0 +1,3 @@
+[submodule "nisikawa-web"]
+	path = nisikawa-web
+	url = https://github.com/wakashio/nisikawa-web.git
